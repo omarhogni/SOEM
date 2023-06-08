@@ -1,6 +1,8 @@
 build*/
+cmake-build-*
 install
 *~
 /doc/latex
 /doc/html
 tags
+.idea
